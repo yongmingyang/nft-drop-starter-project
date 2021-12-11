@@ -1,0 +1,19 @@
+{
+  "name": "Tropical bliss",
+  "symbol": "",
+  "image": "1.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "1.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "DraFkz2LZ2RC8D55nt6D3D7LnPjmYLShmcbg9Yr3CMXG",
+        "share": 100
+      }
+    ]
+  }
+}
